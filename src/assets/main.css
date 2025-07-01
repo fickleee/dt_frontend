@@ -1,0 +1,7 @@
+:where(.css-dev-only-do-not-override-z8mzbq).ant-btn-primary {
+    background-color: rgba(61, 79, 255, 0.68);
+}
+:where(.css-dev-only-do-not-override-z8mzbq).ant-btn-primary:not(:disabled):hover {
+    background-color: #000000;
+    box-shadow: none;
+}
